@@ -8,7 +8,6 @@
 <body>
   <div class="jumbotron" style="background-color:white">
      <h1 class="text-center">Welcome to Jenkins</h1>
-     <h1 class="text-center">Welcome to Jenkins World</h1>
       <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">My job is done with jenkins</h1>
